@@ -1,0 +1,25 @@
+All Questions
+56.47%
+ 
+Security Operations                                                                                  71.43%
+    Explain the importance of system and network architecture concepts in security operations        75%
+    Given a scenario, analyze indicators of potentially malicious activity                           50%
+    Given a scenario, use appropriate tools or techniques to determine malicious activity            100%
+    Compare and contrast threat-intelligence and threat-hunting concepts                             60%
+    Explain the importance of efficiency and process improvement in security operations              100%
+ 
+Vulnerability Management                                                                              53.85%
+    Given a scenario, implement vulnerability scanning methods and concepts                           42.86%
+    Given a scenario, analyze output from vulnerability assessment tools                              60%
+    Given a scenario, analyze data to prioritize vulnerabilities                                      0%
+    Given a scenario, recommend controls to mitigate attacks and software vulnerabilities             60%
+    Explain concepts related to vulnerability response, handling, and management                      71.43%
+ 
+Incident Response and Management                                                                      35.29%
+    Explain concepts related to attack methodology frameworks                                         33.33%
+    Given a scenario, perform incident response activities                                            20%
+    Explain the preparation and post-incident activity phases of the incident management life cycle   66.67%
+ 
+Reporting and Communication                                                                           57.14%
+    Explain the importance of vulnerability management reporting and communication                    63.64%
+    Explain the importance of incident response reporting and communication                           33.33%
